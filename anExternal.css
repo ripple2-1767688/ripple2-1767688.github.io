@@ -13,3 +13,10 @@ p {
 .practiceFloat {
     float: right;
 }
+#rounded {
+    border: 5px solid pink; 
+    border-radius:25px;
+    width:100px;
+    height:100px;
+    text-align:center
+}
