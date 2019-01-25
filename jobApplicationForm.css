@@ -13,9 +13,9 @@ h2{
 legend{
     border-bottom: dashed 2px salmon;
     border-top: dashed 2px salmon;
-    text-align: center;
     width: 1200px;
     color: white;
+    font-size: 20pt;
 }
 
 body{
@@ -67,4 +67,22 @@ th{
     color: black;
     border-radius: 25px;
     border: dashed 2px salmon;
+    width: 100px;
+    height: 25px;
 }
+
+#dates{
+    width: 800px;
+    table-layout: fixed;
+}
+#recentProject{
+    margin-left: 32px;
+    width: 800px;
+}
+
+.control-label{
+    margin-right: 10px;
+}
+ #textBox{
+    width: 800px;
+ }
