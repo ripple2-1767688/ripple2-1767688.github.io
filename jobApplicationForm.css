@@ -1,0 +1,70 @@
+h2{
+    font-weight: bolder;
+    font-size: 50pt;
+    font-family: Lucida;
+    color: rgb(0, 238, 255);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: peachpuff;
+    outline: dotted 2px salmon;
+    width: 500px;
+    text-align: center;
+}
+
+legend{
+    border-bottom: dashed 2px salmon;
+    border-top: dashed 2px salmon;
+    text-align: center;
+    width: 1200px;
+    color: white;
+}
+
+body{
+    background-image: url("backgroundStars.png");
+}
+
+.form-group{
+    color: peachpuff;
+}
+
+th{
+    color: white;
+}
+
+#Mon{
+    background: red;
+}
+
+#Tues{
+    background: greenyellow;
+}
+
+#Wed{
+    background: purple;
+}
+
+#Thurs{
+    background: palevioletred;
+}
+
+#Fri{
+    background: orange;
+}
+
+#Sat{
+    background: aqua;
+}
+
+#Sun{
+    background:brown;
+}
+
+.side{
+    background-image: url("spaceBackground.jpg");
+}
+
+#button{
+    background-color: peachpuff;
+    color: black;
+    border-radius: 25px;
+    border: dashed 2px salmon;
+}
